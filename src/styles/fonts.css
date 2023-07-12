@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "DancingScript";
+    src: url("/assets/fonts/DancingScript-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+/* @font-face {
+    font-family: "DancingScript";
+    src: url("/assets/fonts/DancingScript-Bold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+} */
+@font-face {
+    font-family: "AlexBrush";
+    src: url("/assets/fonts/AlexBrush-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Lora";
+    src: url("/assets/fonts/Lora-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
