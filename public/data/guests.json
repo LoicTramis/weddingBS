@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "group": "Honneur",
+        "firstName": "Loïc",
+        "lastName": "Tramis",
+        "isAdult": true,
+        "status": "accepted"
+    },
+    {
+        "id": "2",
+        "group": "Honneur",
+        "firstName": "Olivier",
+        "lastName": "Tramis",
+        "isAdult": true,
+        "status": "accepted"
+    },
+    {
+        "id": "3",
+        "group": "Marié",
+        "firstName": "Bernard",
+        "lastName": "Tramis",
+        "isAdult": true,
+        "status": "accepted"
+    },
+    {
+        "id": "4",
+        "group": "Marié",
+        "firstName": "Sylvie",
+        "lastName": "Tramis",
+        "isAdult": true,
+        "status": "accepted"
+    },
+    {
+        "id": "5",
+        "group": "Honneur",
+        "firstName": "Ludovic",
+        "lastName": "Trefle",
+        "isAdult": false,
+        "status": "accepted"
+    },
+    {
+        "id": "6",
+        "group": "",
+        "firstName": "Maryse",
+        "lastName": "Electon",
+        "isAdult": true,
+        "status": "pending"
+    },
+    {
+        "id": "7",
+        "group": "Honneur",
+        "firstName": "Fille",
+        "lastName": "de Sébastien",
+        "isAdult": false,
+        "status": "accepted"
+    },
+    {
+        "id": "8",
+        "group": "",
+        "firstName": "Daniel",
+        "lastName": "Tramis",
+        "isAdult": true,
+        "status": "rejected"
+    },
+    {
+        "id": "9",
+        "group": "Témoin",
+        "firstName": "Line",
+        "lastName": "Trefle",
+        "isAdult": true,
+        "status": "accepted"
+    }
+]
